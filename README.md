@@ -1,15 +1,9 @@
 <!-- About Me Section -->
 <div align="center">
 
-# 💫 About Me
+# About Me
 
 </div>
-
-🔭 I'm currently working as a Full-stack PL/SQL & Oracle APEX developer.<br>
-🤝 I'm looking to collaborate on: Web apps, data-driven dashboards, and small tooling projects that streamline operations.<br>
-👐 I'm looking for help with: Building more scalable architectures and exploring modern deployment pipelines.<br>
-🌱 I'm currently studying on my Master Degree.<br>
-💬 Ask me about: Oracle APEX, PL/SQL.
 
 ---
 
