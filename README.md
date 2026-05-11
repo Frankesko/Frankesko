@@ -10,7 +10,7 @@
 <!-- Social connections -->
 <div align="center">
 
-## 🌐 Connect with Me
+##Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francescoo-bartolomeo/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francibartolomeo@libero.it)
 
@@ -29,24 +29,6 @@
 
 ---
 
-<!-- Stats -->
-<div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=frankesko&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frankesko&theme=aura&hide_border=true" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankesko&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-
-</div>
-
----
-
-<!-- Visit Counter -->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=frankesko&icon=10&color=6)](https://visitcount.itsvg.in)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
